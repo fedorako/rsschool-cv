@@ -19,12 +19,10 @@
 
 ### **PROFILE INFO**
 
-I’m a tester with 5+ years of experience in manual testing, test planning and defect management. Team player, 
-capable of cooperating and communicating effectively as a member or as
-a leader. Motivated to grow as an Frontend Developer, to learn and
-improve my skills.
-Like to spend free time traveling, reading books, playing board
-games and listening to music.
+I’m a tester with 5+ years of experience in manual testing, test planning and defect management. Team player, capable of cooperating and communicating effectively as a member or as a leader. Motivated to grow as an Frontend Developer, to learn and improve my skills.
+
+
+Like to spend free time traveling, reading books, playing board games and listening to music.
 *****
 
 
