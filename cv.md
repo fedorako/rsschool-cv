@@ -14,6 +14,7 @@
 * Telegram: @olya_f4
 * LinkedIn: [olga-fedorako-424992178](https://www.linkedin.com/in/olga-fedorako-424992178)
 * GitHub: [fedorako](https://github.com/fedorako)
+
 *****
 
 
@@ -23,6 +24,7 @@ I’m a tester with 5+ years of experience in manual testing, test planning and 
 
 
 Like to spend free time traveling, reading books, playing board games and listening to music.
+
 *****
 
 
@@ -37,6 +39,7 @@ Like to spend free time traveling, reading books, playing board games and listen
 + CI/CD
 + JS, TS (Basics)
 + WDIO, Cypress, Playwright (Basics)
+
 *****
 
 
@@ -62,6 +65,7 @@ function triangle(a: number, b: number, c:number) {
     + Chemistry faculty (Bachelor Degree)
 * TeachMeSkills
     + Automation QA Engineer (TYPESCRIPT)
+    
 *****
 
 ### **Languages**
