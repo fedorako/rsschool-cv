@@ -1,1 +1,1 @@
-https://fedorako.github.io/rsschool-cv/cv
+https://fedorako.github.io/rsschool-cv/
